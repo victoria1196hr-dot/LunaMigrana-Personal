@@ -1,0 +1,1 @@
+window.LUNA_VERSION='0.7';
